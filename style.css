@@ -404,10 +404,14 @@ footer .interface .line-footer .logo-footer img {
        line-height: 30px;
     }
 
-    /* CABEÇALHO */
-    .menu, 
+    /* CABEÇALHO */ 
+    .menu,
     .botao {
         display: none;
+    }
+
+    .btn-abrir-menu {
+        display: block;
     }
 
     /* TOPO DO SITE */
